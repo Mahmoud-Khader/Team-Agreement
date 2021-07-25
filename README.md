@@ -15,7 +15,7 @@
 
 What are the key strengths of each person on the team?
 
-Mahmoud Khader: Communication, team-work , pair programming, Problem solving
+Mahmoud Khader: Communication, team-work , pair programming, Problem solving , Team Leadership
 
 Mohammed Atta  : Problem solving, communication, team-work
 
